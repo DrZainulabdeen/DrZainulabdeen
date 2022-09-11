@@ -1,6 +1,8 @@
 <h1 align="center">Welcome!</h1>
 <h3 align="center"></h3>
-
+<p align="left">
+I experiment and write articles on different topics for beginners by using minimum required code to get up and running and become familiar with the packages without needing to go through extra code.
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/drzainulabdeen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/drzainulabdeen/" height="30" width="40" /></a>
